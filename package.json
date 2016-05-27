@@ -1,0 +1,22 @@
+{
+  "name": "rapidcurrency",
+  "version": "0.0.0",
+  "description": "For fast currency conversion, using the ECB daily 'Euro foreign exchange reference rates' feed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Henrik Steen",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^2.10.2",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-react": "^5.1.1",
+    "eslint-plugin-jsx-a11y": "^1.2.0",
+    "eslint-plugin-import": "^1.7.0"
+  },
+  "dependencies": {
+    "request": "^2.72.0",
+    "xml2js": "^0.4.16"
+  }
+}
