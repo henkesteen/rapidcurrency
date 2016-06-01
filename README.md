@@ -1,0 +1,3 @@
+# rapidcurrency
+
+IN THE MAKING - NOT WORKING AT THE MOMENT
