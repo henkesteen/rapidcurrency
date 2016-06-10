@@ -1,6 +1,6 @@
 {
   "name": "rapidcurrency",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "For fast currency conversion, using the ECB daily 'Euro foreign exchange reference rates' feed.",
   "main": "index.js",
   "scripts": {
