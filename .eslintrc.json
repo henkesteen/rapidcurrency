@@ -5,6 +5,7 @@
     ],
     "rules":{
         "indent": ["error", 4],
-        "arrow-body-style": ["error", "always"]
+        "arrow-body-style": ["error", "always"],
+        "no-param-reassign": ["error", { "props": false }]
     }
 }
